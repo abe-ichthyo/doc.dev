@@ -134,17 +134,17 @@ main {
   gap: 4px;
 }
 
-.stat-value {
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--text);
-}
-
 .stat-label {
   font-size: 11px;
   color: var(--text-muted);
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+
+.stat-value {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
 }
 
 /* === Sections === */
